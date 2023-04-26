@@ -33,7 +33,7 @@ def recommend(movie):
 st.title('I know your choice 😉')
 
 selected_movie_name = st.selectbox(
-"how would like to choise",
+"how would like to choice",
 movies_list
 )
 
